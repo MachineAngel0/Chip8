@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Chip8.dir\\Debug\\Chip8E.obj",
+            "outputs": [
+                "C:\\Users\\Adams Humbert\\CLionProjects\\Chip8\\cmake-build-debug\\Chip8.dir\\Debug\\vc143.pdb",
+                "Chip8.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
