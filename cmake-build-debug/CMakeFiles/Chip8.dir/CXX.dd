@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\Chip8.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\Chip8.dir\src\Chip8E.cpp.obj: dyndep
+
+build CMakeFiles\Chip8.dir\src\Platform.cpp.obj: dyndep
+

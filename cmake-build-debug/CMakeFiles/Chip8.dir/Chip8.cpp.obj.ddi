@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Chip8.dir\\Chip8.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Adams Humbert\\CLionProjects\\Chip8\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\Chip8.dir\\Chip8.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
